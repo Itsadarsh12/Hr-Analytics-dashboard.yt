@@ -5,6 +5,14 @@ The project objective of an HR data analytics dashboard is to visualize and pres
 ## Dataset used
 - <a href="https://github.com/Itsadarsh12/Hr-Analytics-dashboard.yt/blob/main/Power%20bi%20project%20completed.pbix">Dataset</a>
 
+##Questions(KPIs)
+- What is the average employee engagement score? 
+- How satisfied are employees with their work-life balance? 
+- What is the level of employee feedback on company culture?
+- What percentage of employees complete required training programs? 
+- What is the average time spent on training per employee?
+- How many employees are promoted internally? 
+
 ## Process
 * Verify data for any missing values and anomalies, and sort out the same.
 * Made sure data is consistent and clean with respect to data type, data format and values used.

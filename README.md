@@ -11,10 +11,14 @@ The project objective of an HR data analytics dashboard is to visualize and pres
 - What is the level of employee feedback on company culture?
 - What percentage of employees complete required training programs? 
 - What is the average time spent on training per employee?
-- How many employees are promoted internally? 
+- How many employees are promoted internally?
+
+- Dashboard interaction <a href="https://github.com/Itsadarsh12/Hr-Analytics-dashboard.yt/blob/main/Screenshot%202025-02-16%20000724.png">View Dashboard</a>
 
 ## Process
 * Verify data for any missing values and anomalies, and sort out the same.
 * Made sure data is consistent and clean with respect to data type, data format and values used.
 * Created pivot tables according to the questions asked.
 * Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+  

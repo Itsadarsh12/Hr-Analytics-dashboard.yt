@@ -24,5 +24,11 @@ The project objective of an HR data analytics dashboard is to visualize and pres
 ## Dashboard
 ![Screenshot 2025-02-16 000724](https://github.com/user-attachments/assets/ff3d195c-f691-4b28-92bf-46b20c65aae0)
 
+## Conclusions
+ Created an interactive dashboard to track employee turnover and reasons for attrition. Discovered that salespeople are leaving the company in greater numbers due to a lower salary and 
+ stagnant hike rates. Provided visualizations and actionable insights to the HR team to address the issue and retain employees.
+
+
+
 
   
